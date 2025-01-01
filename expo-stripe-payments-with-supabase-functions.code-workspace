@@ -11,6 +11,9 @@
     {
       "name": "supabase-functions",
       "path": "supabase/functions"
+    },
+    {
+      "path": "supabase"
     }
   ],
   "settings": {
